@@ -1,0 +1,91 @@
+package com.advancia.model;
+
+import java.io.Serializable;
+import java.util.List;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.JoinColumn;
+import javax.persistence.ManyToMany;
+import javax.persistence.ManyToOne;
+import javax.persistence.Table;
+
+@Entity
+@Table(name = "dvd")
+public class Dvd implements Serializable {
+    private static final long serialVersionUID = 1L;
+
+    @Id
+    @Column(name = "id_dvd")
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    private Long id;
+
+    @Column(name = "titolo", nullable = false)
+    private String titolo;
+
+    @ManyToOne
+    @JoinColumn(name = "id_regista")
+    private Regista regista;
+
+    @ManyToOne
+    @JoinColumn(name = "id_genere")
+    private Genere genere;
+    
+    @ManyToMany(mappedBy = "dvdNoleggiati")
+    private List<Utente> utentiNoleggiatori; 
+
+    @Column(name = "disponibile", nullable = false)
+    private boolean disponibile;
+
+    public Dvd() {}
+
+    public Dvd(String titolo, Regista regista, Genere genere, boolean disponibile) {
+        this.titolo = titolo;
+        this.regista = regista;
+        this.genere = genere;
+        this.disponibile = disponibile;
+    }
+
+    public Long getId() {
+        return id;
+    }
+
+    public void setId(Long id) {
+        this.id = id;
+    }
+
+    public String getTitolo() {
+        return titolo;
+    }
+
+    public void setTitolo(String titolo) {
+        this.titolo = titolo;
+    }
+
+    public Regista getRegista() {
+        return regista;
+    }
+
+    public void setRegista(Regista regista) {
+        this.regista = regista;
+    }
+
+    public Genere getGenere() {
+        return genere;
+    }
+
+    public void setGenere(Genere genere) {
+        this.genere = genere;
+    }
+
+    public boolean isDisponibile() {
+        return disponibile;
+    }
+
+    public void setDisponibile(boolean disponibile) {
+        this.disponibile = disponibile;
+    }
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Videoteca1">
+        <wb-resource deploy-path="/" source-path="/EarContent" tag="defaultRootSource"/>
+        <dependent-module archiveName="VideotecaEJB1.jar" deploy-path="/" handle="module:/resource/VideotecaEJB1/VideotecaEJB1">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="VideotecaWeb1.war" deploy-path="/" handle="module:/resource/VideotecaWeb1/VideotecaWeb1">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+    </wb-module>
+</project-modules>

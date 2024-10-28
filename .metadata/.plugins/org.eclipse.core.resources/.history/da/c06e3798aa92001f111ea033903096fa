@@ -1,0 +1,8 @@
+package com.advancia.DAO;
+
+import javax.ejb.Local;
+
+@Local
+public interface VideotecaDAOLocal {
+
+}

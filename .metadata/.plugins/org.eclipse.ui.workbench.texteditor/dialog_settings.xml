@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="hasShownOverlayPopupBefore" value="true"/>
+	<item key="replaceBarOpen" value="true"/>
+	<list key="replacehistory">
+		<item value="dAv"/>
+		<item value="listAvailableDVDs"/>
+		<item value="DVD"/>
+		<item value="dvd"/>
+		<item value="user"/>
+		<item value="Genre"/>
+		<item value="get"/>
+		<item value="Director"/>
+		<item value="directors"/>
+		<item value="long"/>
+		<item value="genres"/>
+		<item value="director"/>
+		<item value="genre"/>
+		<item value="dvdName"/>
+		<item value="videotecaDaoLocal"/>
+	</list>
+	<list key="searchhistory">
+		<item value="d"/>
+		<item value="listDVD"/>
+		<item value="Genre"/>
+		<item value="Pizza"/>
+		<item value="pizza"/>
+		<item value="utente"/>
+		<item value="Ingrediente"/>
+		<item value="find"/>
+		<item value="Impasto"/>
+		<item value="impasti"/>
+		<item value="int"/>
+		<item value="ingredienti"/>
+		<item value="impasto"/>
+		<item value="nomeDVD"/>
+		<item value="pizzeriaDao"/>
+	</list>
+</section>

@@ -1,0 +1,19 @@
+package com.advancia.DAO;
+
+import java.util.List;
+
+import javax.ejb.Local;
+
+import com.advancia.model.DVD;
+
+@Local
+public interface VideotecaDAOLocal {
+	
+	List<DVD> getAllDVDs();
+
+    void addDVD(DVD dvd);
+
+    void deleteDVD(Long id);
+
+    List<DVD> getAvailableDVDs();
+}

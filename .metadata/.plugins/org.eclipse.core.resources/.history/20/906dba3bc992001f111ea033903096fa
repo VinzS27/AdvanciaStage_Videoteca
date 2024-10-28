@@ -1,0 +1,32 @@
+package com.advancia.DAO;
+
+import java.util.List;
+
+import javax.ejb.Local;
+
+import com.advancia.model.DVD;
+import com.advancia.model.Director;
+import com.advancia.model.Genre;
+import com.advancia.model.User;
+
+@Local
+public interface VideotecaDAOLocal {
+	
+	//USER
+	public User checkUser(String username, String password);
+	
+	//DVD
+	List<DVD> getAllDVDs();
+	DVD findDVDById(int id) ;
+	List<DVD> getAvailableDVDs();
+    void addDVD(DVD dvd);
+    void deleteDVD(Long id);
+    
+    //DIRECTOR
+	public List<Director> findDirector();
+	public Director findDirectorByID(int idDirector);
+
+	//GENRE
+	public List<Genre> findGenre();
+	public Genre findGenreById(int idGenre);
+}

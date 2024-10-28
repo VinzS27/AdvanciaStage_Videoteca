@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<classpath>
+  <source-attachment entry="C:/advancia_stage/wildfly-24.0.1.Final/wildfly-24.0.1.Final/modules/system/layers/base/javax/persistence/api/main/jakarta.persistence-api-2.2.3.jar" runtime-id="WildFly 24.0 Runtime" source-attachment-path="C:/Users/Vinz/.m2/repository/jakarta/persistence/jakarta.persistence-api/2.2.3/jakarta.persistence-api-2.2.3-sources.jar"/>
+  <source-attachment entry="C:/advancia_stage/wildfly-24.0.1.Final/wildfly-24.0.1.Final/modules/system/layers/base/javax/servlet/api/main/jboss-servlet-api_4.0_spec-2.0.0.Final.jar" runtime-id="WildFly 24.0 Runtime" source-attachment-path="C:/Users/Vinz/.m2/repository/org/jboss/spec/javax/servlet/jboss-servlet-api_4.0_spec/2.0.0.Final/jboss-servlet-api_4.0_spec-2.0.0.Final-sources.jar"/>
+</classpath>

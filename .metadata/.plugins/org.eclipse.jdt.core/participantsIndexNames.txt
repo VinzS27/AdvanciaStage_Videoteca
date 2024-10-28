@@ -1,0 +1,9 @@
+INDEX VERSION 1.134
+D:\Advancia Technology\Formazione\WorkSpaceVideoteca\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\533881876.index
+\VideotecaWeb\src\main\java
+D:\Advancia Technology\Formazione\WorkSpaceVideoteca\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1278264283.index
+\VideotecaWeb\src\main\java
+D:\Advancia Technology\Formazione\WorkSpaceVideoteca\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3134986651.index
+\VideotecaWeb1\src\main\java
+D:\Advancia Technology\Formazione\WorkSpaceVideoteca\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\43423299.index
+\VideotecaWeb1\src\main\java
