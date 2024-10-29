@@ -23,7 +23,7 @@ public class Genre {
 		super();
 	}
 
-	public Genre(String name, String lastname) {
+	public Genre(String name) {
 		super();
 		this.name = name;
 	}

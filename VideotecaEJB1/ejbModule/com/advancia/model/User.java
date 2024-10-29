@@ -1,5 +1,6 @@
 package com.advancia.model;
 
+import java.util.ArrayList;
 import java.util.List;
 
 import javax.persistence.Column;
@@ -33,7 +34,7 @@ public class User {
 
 	@ManyToMany(fetch = FetchType.EAGER)
 	@JoinTable(name = "user_dvd", joinColumns = @JoinColumn(name = "id_user"), inverseJoinColumns = @JoinColumn(name = "id_dvd"))
-	private List<DVD> listDVD;
+	private List<DVD> listDVD = new ArrayList<>(); //la inizializzo per evitare il nullpointer quando si fa rent
 
 	public User() {
 		super();

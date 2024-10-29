@@ -20,6 +20,8 @@
 		<item value="videotecaDaoLocal"/>
 	</list>
 	<list key="searchhistory">
+		<item value="User user"/>
+		<item value="rental_date"/>
 		<item value="d"/>
 		<item value="listDVD"/>
 		<item value="Genre"/>
@@ -33,7 +35,5 @@
 		<item value="int"/>
 		<item value="ingredienti"/>
 		<item value="impasto"/>
-		<item value="nomeDVD"/>
-		<item value="pizzeriaDao"/>
 	</list>
 </section>

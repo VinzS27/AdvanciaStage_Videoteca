@@ -3,7 +3,6 @@ INDEX VERSION 1.4+D:\Advancia Technology\Formazione\WorkSpaceVideoteca\.metadata
 1719000260.index
 2191069018.index
 43423299.index
-43423299.index
 1389251046.index
 1371345239.index
 603835297.index

@@ -34,7 +34,7 @@ public class Director {
 		super();
 	}
 
-	public Director(String name, String lastname, Date birthDate) {
+	public Director(String name, String lastname) {
 		super();
 		this.name = name;
 		this.lastname = lastname;

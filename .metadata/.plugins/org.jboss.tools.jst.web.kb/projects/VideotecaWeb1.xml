@@ -11,6 +11,7 @@
   <path value="C:/advancia_stage/wildfly-24.0.1.Final/wildfly-24.0.1.Final/modules/system/layers/base/javax/security/jacc/api/main/jboss-jacc-api_1.5_spec-2.0.0.Final.jar"/>
   <path value="C:/advancia_stage/wildfly-24.0.1.Final/wildfly-24.0.1.Final/modules/system/layers/base/org/wildfly/security/elytron-base/main/wildfly-elytron-encryption-1.16.1.Final.jar"/>
   <path value="C:/advancia_stage/wildfly-24.0.1.Final/wildfly-24.0.1.Final/modules/system/layers/base/org/wildfly/security/elytron-base/main/wildfly-elytron-http-external-1.16.1.Final.jar"/>
+  <path value="C:/Users/Vinz/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar"/>
   <path value="C:/advancia_stage/wildfly-24.0.1.Final/wildfly-24.0.1.Final/modules/system/layers/base/org/wildfly/security/elytron-base/main/wildfly-elytron-x500-cert-1.16.1.Final.jar"/>
   <path value="C:/advancia_stage/wildfly-24.0.1.Final/wildfly-24.0.1.Final/modules/system/layers/base/javax/validation/api/main/jakarta.validation-api-2.0.2.jar"/>
   <path value="C:/advancia_stage/wildfly-24.0.1.Final/wildfly-24.0.1.Final/modules/system/layers/base/org/jboss/resteasy/resteasy-jaxrs/main/resteasy-client-3.15.1.Final.jar"/>
@@ -22,7 +23,9 @@
   <path value="C:/advancia_stage/wildfly-24.0.1.Final/wildfly-24.0.1.Final/modules/system/layers/base/org/wildfly/security/elytron-base/main/wildfly-elytron-security-manager-action-1.16.1.Final.jar"/>
   <path value="C:/advancia_stage/wildfly-24.0.1.Final/wildfly-24.0.1.Final/modules/system/layers/base/org/wildfly/security/elytron-base/main/wildfly-elytron-mechanism-scram-1.16.1.Final.jar"/>
   <path value="C:/advancia_stage/wildfly-24.0.1.Final/wildfly-24.0.1.Final/modules/system/layers/base/org/wildfly/security/elytron-base/main/wildfly-elytron-realm-token-1.16.1.Final.jar"/>
+  <path value="C:/Users/Vinz/.m2/repository/net/bytebuddy/byte-buddy/1.14.1/byte-buddy-1.14.1.jar"/>
   <path value="C:/advancia_stage/wildfly-24.0.1.Final/wildfly-24.0.1.Final/modules/system/layers/base/org/wildfly/security/elytron-base/main/wildfly-elytron-realm-jdbc-1.16.1.Final.jar"/>
+  <path value="C:/Users/Vinz/.m2/repository/org/mockito/mockito-junit-jupiter/5.2.0/mockito-junit-jupiter-5.2.0.jar"/>
   <path value="C:/advancia_stage/wildfly-24.0.1.Final/wildfly-24.0.1.Final/modules/system/layers/base/javax/faces/api/main/jboss-jsf-api_2.3_spec-3.0.0.SP04.jar"/>
   <path value="C:/advancia_stage/wildfly-24.0.1.Final/wildfly-24.0.1.Final/modules/system/layers/base/org/jboss/resteasy/resteasy-multipart-provider/main/resteasy-multipart-provider-3.15.1.Final.jar"/>
   <path value="C:/advancia_stage/wildfly-24.0.1.Final/wildfly-24.0.1.Final/modules/system/layers/base/org/wildfly/security/elytron-base/main/wildfly-elytron-http-util-1.16.1.Final.jar"/>
@@ -34,6 +37,8 @@
   <path value="C:/advancia_stage/wildfly-24.0.1.Final/wildfly-24.0.1.Final/modules/system/layers/base/org/wildfly/security/elytron-base/main/wildfly-elytron-http-1.16.1.Final.jar"/>
   <path value="C:/advancia_stage/wildfly-24.0.1.Final/wildfly-24.0.1.Final/modules/system/layers/base/org/wildfly/security/elytron-base/main/wildfly-elytron-sasl-oauth2-1.16.1.Final.jar"/>
   <path value="C:/advancia_stage/wildfly-24.0.1.Final/wildfly-24.0.1.Final/modules/system/layers/base/org/hibernate/validator/main/hibernate-validator-6.0.22.Final.jar"/>
+  <path value="C:/Users/Vinz/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar"/>
+  <path value="C:/Users/Vinz/.m2/repository/org/junit/platform/junit-platform-commons/1.9.3/junit-platform-commons-1.9.3.jar"/>
   <path value="C:/advancia_stage/wildfly-24.0.1.Final/wildfly-24.0.1.Final/modules/system/layers/base/javax/resource/api/main/jboss-connector-api_1.7_spec-2.0.0.Final.jar"/>
   <path value="C:/advancia_stage/wildfly-24.0.1.Final/wildfly-24.0.1.Final/modules/system/layers/base/org/wildfly/security/elytron-base/main/wildfly-elytron-auth-server-http-1.16.1.Final.jar"/>
   <path value="C:/advancia_stage/wildfly-24.0.1.Final/wildfly-24.0.1.Final/modules/system/layers/base/org/wildfly/security/elytron-base/main/wildfly-elytron-credential-store-1.16.1.Final.jar"/>
@@ -60,6 +65,7 @@
   <path value="C:/advancia_stage/wildfly-24.0.1.Final/wildfly-24.0.1.Final/modules/system/layers/base/org/wildfly/security/elytron-base/main/wildfly-elytron-http-deprecated-1.16.1.Final.jar"/>
   <path value="C:/advancia_stage/wildfly-24.0.1.Final/wildfly-24.0.1.Final/modules/system/layers/base/javax/xml/ws/api/main/jboss-jaxws-api_2.3_spec-2.0.0.Final.jar"/>
   <path value="C:/advancia_stage/wildfly-24.0.1.Final/wildfly-24.0.1.Final/modules/system/layers/base/org/picketbox/main/picketbox-infinispan-5.0.3.Final-redhat-00007.jar"/>
+  <path value="C:/Users/Vinz/.m2/repository/org/junit/platform/junit-platform-engine/1.9.3/junit-platform-engine-1.9.3.jar"/>
   <path value="C:/advancia_stage/wildfly-24.0.1.Final/wildfly-24.0.1.Final/modules/system/layers/base/org/jboss/resteasy/resteasy-jaxrs/main/resteasy-jaxrs-3.15.1.Final.jar"/>
   <path value="C:/advancia_stage/wildfly-24.0.1.Final/wildfly-24.0.1.Final/modules/system/layers/base/javax/activation/api/main/jakarta.activation-1.2.2.jar"/>
   <path value="C:/advancia_stage/wildfly-24.0.1.Final/wildfly-24.0.1.Final/modules/system/layers/base/org/jboss/resteasy/resteasy-jaxb-provider/main/resteasy-jaxb-provider-3.15.1.Final.jar"/>
@@ -120,11 +126,13 @@
   <path value="C:/advancia_stage/wildfly-24.0.1.Final/wildfly-24.0.1.Final/modules/system/layers/base/javax/ws/rs/api/main/jboss-jaxrs-api_2.1_spec-2.0.1.Final.jar"/>
   <path value="C:/advancia_stage/wildfly-24.0.1.Final/wildfly-24.0.1.Final/modules/system/layers/base/javax/xml/rpc/api/main/jboss-jaxrpc-api_1.1_spec-2.0.0.Final.jar"/>
   <path value="C:/advancia_stage/wildfly-24.0.1.Final/wildfly-24.0.1.Final/modules/system/layers/base/javax/xml/bind/api/main/jboss-jaxb-api_2.3_spec-2.0.1.Final.jar"/>
+  <path value="C:/Users/Vinz/.m2/repository/net/bytebuddy/byte-buddy-agent/1.14.1/byte-buddy-agent-1.14.1.jar"/>
   <path value="C:/advancia_stage/wildfly-24.0.1.Final/wildfly-24.0.1.Final/modules/system/layers/base/org/wildfly/security/elytron-base/main/wildfly-elytron-mechanism-digest-1.16.1.Final.jar"/>
   <path value="C:/advancia_stage/wildfly-24.0.1.Final/wildfly-24.0.1.Final/modules/system/layers/base/org/wildfly/security/elytron-base/main/wildfly-elytron-x500-1.16.1.Final.jar"/>
   <path value="C:/advancia_stage/wildfly-24.0.1.Final/wildfly-24.0.1.Final/modules/system/layers/base/javax/interceptor/api/main/jboss-interceptors-api_1.2_spec-2.0.0.Final.jar"/>
   <path value="C:/advancia_stage/wildfly-24.0.1.Final/wildfly-24.0.1.Final/modules/system/layers/base/org/jboss/ejb3/main/jboss-ejb3-ext-api-2.3.0.Final.jar"/>
   <path value="C:/advancia_stage/wildfly-24.0.1.Final/wildfly-24.0.1.Final/modules/system/layers/base/org/wildfly/security/elytron-base/main/wildfly-elytron-sasl-1.16.1.Final.jar"/>
+  <path value="C:/Users/Vinz/.m2/repository/org/mockito/mockito-core/5.2.0/mockito-core-5.2.0.jar"/>
   <path value="C:/advancia_stage/wildfly-24.0.1.Final/wildfly-24.0.1.Final/modules/system/layers/base/org/wildfly/security/elytron-base/main/wildfly-elytron-sasl-auth-util-1.16.1.Final.jar"/>
   <path value="C:/advancia_stage/wildfly-24.0.1.Final/wildfly-24.0.1.Final/modules/system/layers/base/org/wildfly/security/elytron-base/main/wildfly-elytron-sasl-scram-1.16.1.Final.jar"/>
   <path value="C:/advancia_stage/wildfly-24.0.1.Final/wildfly-24.0.1.Final/modules/system/layers/base/javax/transaction/api/main/jboss-transaction-api_1.3_spec-2.0.0.Final.jar"/>
@@ -158,6 +166,7 @@
   <path value="C:/advancia_stage/wildfly-24.0.1.Final/wildfly-24.0.1.Final/modules/system/layers/base/org/wildfly/security/elytron-base/main/wildfly-elytron-realm-1.16.1.Final.jar"/>
   <path value="C:/advancia_stage/wildfly-24.0.1.Final/wildfly-24.0.1.Final/modules/system/layers/base/org/wildfly/common/main/wildfly-common-1.5.4.Final.jar"/>
   <path value="C:/advancia_stage/wildfly-24.0.1.Final/wildfly-24.0.1.Final/modules/system/layers/base/org/wildfly/security/elytron-base/main/wildfly-elytron-http-digest-1.16.1.Final.jar"/>
+  <path value="C:/Users/Vinz/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.9.3/junit-jupiter-engine-5.9.3.jar"/>
   <path value="C:/advancia_stage/wildfly-24.0.1.Final/wildfly-24.0.1.Final/modules/system/layers/base/javax/enterprise/api/main/jakarta.enterprise.cdi-api-2.0.2.jar"/>
   <path value="C:/advancia_stage/wildfly-24.0.1.Final/wildfly-24.0.1.Final/modules/system/layers/base/org/wildfly/security/elytron-base/main/wildfly-elytron-password-impl-1.16.1.Final.jar"/>
   <path value="C:/advancia_stage/wildfly-24.0.1.Final/wildfly-24.0.1.Final/modules/system/layers/base/javax/jws/api/main/jsr181-api-1.0-MR1.jar"/>
@@ -165,12 +174,14 @@
   <path value="C:/advancia_stage/wildfly-24.0.1.Final/wildfly-24.0.1.Final/modules/system/layers/base/org/wildfly/security/elytron-base/main/wildfly-elytron-http-basic-1.16.1.Final.jar"/>
   <path value="C:/advancia_stage/wildfly-24.0.1.Final/wildfly-24.0.1.Final/modules/system/layers/base/org/wildfly/security/elytron-base/main/wildfly-elytron-client-1.16.1.Final.jar"/>
   <path value="C:/advancia_stage/wildfly-24.0.1.Final/wildfly-24.0.1.Final/modules/system/layers/base/org/wildfly/security/elytron-base/main/wildfly-elytron-digest-1.16.1.Final.jar"/>
+  <path value="C:/Users/Vinz/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.9.3/junit-jupiter-api-5.9.3.jar"/>
   <path value="C:/advancia_stage/wildfly-24.0.1.Final/wildfly-24.0.1.Final/modules/system/layers/base/javax/management/j2ee/api/main/jboss-j2eemgmt-api_1.1_spec-2.0.0.Final.jar"/>
   <path value="C:/advancia_stage/wildfly-24.0.1.Final/wildfly-24.0.1.Final/modules/system/layers/base/javax/servlet/jstl/api/main/taglibs-standard-spec-1.2.6-RC1.jar"/>
   <path value="C:/advancia_stage/wildfly-24.0.1.Final/wildfly-24.0.1.Final/modules/system/layers/base/org/wildfly/security/elytron-base/main/wildfly-elytron-sasl-plain-1.16.1.Final.jar"/>
   <path value="C:/advancia_stage/wildfly-24.0.1.Final/wildfly-24.0.1.Final/modules/system/layers/base/org/wildfly/security/elytron-base/main/wildfly-elytron-http-bearer-1.16.1.Final.jar"/>
   <path value="C:/advancia_stage/wildfly-24.0.1.Final/wildfly-24.0.1.Final/modules/system/layers/base/javax/batch/api/main/jboss-batch-api_1.0_spec-2.0.0.Final.jar"/>
   <path value="C:/advancia_stage/wildfly-24.0.1.Final/wildfly-24.0.1.Final/modules/system/layers/base/javax/security/auth/message/api/main/jboss-jaspi-api_1.1_spec-2.0.1.Final.jar"/>
+  <path value="C:/Users/Vinz/.m2/repository/org/objenesis/objenesis/3.3/objenesis-3.3.jar"/>
   <path value="C:/advancia_stage/wildfly-24.0.1.Final/wildfly-24.0.1.Final/modules/system/layers/base/org/wildfly/security/elytron-base/main/wildfly-elytron-provider-util-1.16.1.Final.jar"/>
   <path value="C:/advancia_stage/wildfly-24.0.1.Final/wildfly-24.0.1.Final/modules/system/layers/base/javax/json/api/main/jakarta.json-api-1.1.6.jar"/>
   <path value="C:/advancia_stage/wildfly-24.0.1.Final/wildfly-24.0.1.Final/modules/system/layers/base/org/wildfly/security/elytron-base/main/wildfly-elytron-base-1.16.1.Final.jar"/>
@@ -188,9 +199,31 @@
  </paths>
  <validation>
   <core validator-id="jboss.cdi.core"/>
-  <el/>
+  <el>
+   <linked-el length="24" name="%0" offset="919" path="%1"/>
+   <linked-el length="24" name="%0" offset="723" path="%1"/>
+   <linked-el length="15" name="%2" offset="1671" path="%1"/>
+   <linked-el length="15" name="%3" offset="1671" path="%1"/>
+   <linked-el length="24" name="%4" offset="919" path="%1"/>
+   <linked-el length="24" name="%4" offset="723" path="%1"/>
+   <linked-el length="18" name="%5" offset="1323" path="%1"/>
+   <linked-el length="18" name="%5" offset="1138" path="%1"/>
+   <linked-el length="24" name="%6" offset="919" path="%1"/>
+   <linked-el length="24" name="%6" offset="723" path="%1"/>
+   <linked-el length="18" name="%7" offset="1323" path="%1"/>
+   <linked-el length="18" name="%7" offset="1138" path="%1"/>
+  </el>
  </validation>
- <aliases/>
+ <aliases>
+  <alias path="junit" value="%0"/>
+  <alias path="java" value="%2"/>
+  <alias path="java.version" value="%3"/>
+  <alias path="junit.jupiter" value="%4"/>
+  <alias path="/VideotecaWeb1/pom.xml" value="%1"/>
+  <alias path="mockito.version" value="%5"/>
+  <alias path="junit.jupiter.version" value="%6"/>
+  <alias path="mockito" value="%7"/>
+ </aliases>
  <includes/>
  <uris/>
 </kb-project>

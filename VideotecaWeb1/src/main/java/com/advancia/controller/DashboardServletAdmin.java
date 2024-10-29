@@ -58,12 +58,9 @@ public class DashboardServletAdmin extends HttpServlet {
 	}
 
 	private void deleteDVD(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-
-		User user = (User) request.getSession().getAttribute("user");
 		long id = Long.parseLong(request.getParameter("id_dvd"));
 
 		videotecaDaoLocal.deleteDVD(id);
-		user.setListDVD(videotecaDaoLocal.getDVDByUser(user.getId()));
 
 		request.setAttribute("dvds", videotecaDaoLocal.getAllDVDs());
 		request.setAttribute("directors", videotecaDaoLocal.getDirector());

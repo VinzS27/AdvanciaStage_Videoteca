@@ -1,5 +1,6 @@
 package com.advancia.model;
 
+import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
@@ -38,7 +39,7 @@ public class DVD {
 	private Date rentalDate;
 
 	@ManyToMany(mappedBy = "listDVD", fetch = FetchType.EAGER)
-	private List<User> users;
+	private List<User> users = new ArrayList<>(); //la inizializzo per evitare il nullpointer quando si fa rent
 
 	public DVD() {
 		super();

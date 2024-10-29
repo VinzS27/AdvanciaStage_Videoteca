@@ -107,8 +107,15 @@ public class VideotecaDAO implements VideotecaDAOLocal {
 		em.flush();
 		DVD dvd = em.find(DVD.class, dvdId);
 		User user = em.find(User.class, userId);
+		
+		if (dvd == null) {
+	        throw new IllegalArgumentException("DVD not found with id: " + dvdId);
+	    }
+	    if (user == null) {
+	        throw new IllegalArgumentException("User not found with id: " + userId);
+	    }
 
-		if (dvd != null && user != null && dvd.getRentalDate() == null) {
+		if (dvd.getRentalDate() == null) {
 			dvd.setRentalDate(new Date());
 			dvd.getUsers().add(user);
 			user.getListDVD().add(dvd);
