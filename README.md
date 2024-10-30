@@ -1,4 +1,4 @@
-<h1 align="center" id="title">Videoteca</h1>
+<h1 align="center" id="title">Videoteca: Enterprise Java Bean</h1>
 
 <h2>Technologies Used</h2>
 <p id="description"><b>EJB:</b> A server-side component used to build enterprise applications in Java.</p>
